@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+a:visited {
+    color: #6610f2;
+}
+
+/* Formátování textu */
+h1, h2, h3 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Rozložení stránky */
+header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 10px;
+
+}
