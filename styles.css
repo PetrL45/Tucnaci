@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     color: #333;
     font-family: Arial, sans-serif;
 }
@@ -23,7 +23,7 @@ h1, h2, h3 {
 header, footer {
     text-align: center;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ccff98cc;
 }
 nav ul {
     list-style-type: none;
