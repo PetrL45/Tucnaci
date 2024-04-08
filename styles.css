@@ -26,7 +26,7 @@ header, footer {
     background-color: #ccff98cc;
 }
 nav ul {
-    list-style-type:circle;
+    list-style-type: square;
     padding: 0;
 }
 
