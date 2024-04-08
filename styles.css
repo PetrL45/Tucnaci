@@ -1,11 +1,11 @@
 body {
     background-color: #ffffff;
-    color: #333;
+    color: #272626;
     font-family: Arial, sans-serif;
 }
 
 a {
-    color: #007bff;
+    color: #0a3461;
 }
 
 a:hover {
@@ -13,7 +13,7 @@ a:hover {
 }
 
 a:visited {
-    color: purple;
+    color: rgb(58, 0, 58);
 }
 
 h1, h2, h3 {
