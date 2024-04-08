@@ -26,13 +26,13 @@ header, footer {
     background-color: #ccff98cc;
 }
 nav ul {
-    list-style-type: square;
     padding: 0;
 }
 
 nav ul li {
     margin-right: 10 px;
     text-align: center;
+    list-style-type: square;
 }
 .odkazy{
     font-size: 30 px;
