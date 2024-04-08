@@ -9,11 +9,11 @@ a {
 }
 
 a:hover {
-    color: #0056b3;
+    color: white;
 }
 
 a:visited {
-    color: #6610f2;
+    color: purple;
 }
 
 h1, h2, h3 {
@@ -26,11 +26,17 @@ header, footer {
     background-color: #ccff98cc;
 }
 nav ul {
-    list-style-type: none;
+    list-style-type:circle;
     padding: 0;
 }
 
 nav ul li {
     margin-right: 10px;
-
+    text-align: center;
+}
+.odkazy{
+    font-size: 30px;
+}
+footer{
+    text-align: right;
 }
