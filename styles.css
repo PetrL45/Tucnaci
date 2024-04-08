@@ -26,10 +26,9 @@ header, footer {
     background-color: #ccff98cc;
 }
 
-nav ul li {
+nav ol li {
     margin-right: 10px;
     text-align: center;
-    list-style-type: square;
     padding: 5px;
 }
 .odkazy{
@@ -37,4 +36,7 @@ nav ul li {
 }
 footer{
     text-align: right;
+}
+h2{
+    text-align: center;
 }
